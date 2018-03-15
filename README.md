@@ -5,7 +5,9 @@ Interactive turtorial sessions to share programming experiance, knowledge, tips,
 and tricks amongst CAIM post-grads.
 
 =============================================================================
+
 Session: 02/03/2018:
+
 * Discussed format of meetings and future meeting topics.
 
 * Linear regression models in Tensorflow.
@@ -15,7 +17,9 @@ Session: 02/03/2018:
 =============================================================================
 
 =============================================================================
+
 Session: 09/03/2018:
+
 * Tensorboard introduction 
 
 https://web.stanford.edu/class/cs20si/lectures/notes_02.pdf
@@ -28,7 +32,9 @@ https://github.com/deep-learning-indaba/practicals2017/blob/master/practical1.ip
 =============================================================================
 
 =============================================================================
+
 Suggested Session: 16/03/2018:
+
 * Linear classification implementing various objective functions - solution and speed
 
 * Reconstruct one of the linear classifiers using the tensorflow playground
