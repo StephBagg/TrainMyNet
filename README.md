@@ -18,7 +18,7 @@ Session: 02/03/2018:
 Session: 09/03/2018:
 * Tensorboard introduction 
 
-web.stanford.edu/class/cs20si/lectures/notes_02.pdf
+https://web.stanford.edu/class/cs20si/lectures/notes_02.pdf
 
 * Introduction to linear and non-linear models
 
