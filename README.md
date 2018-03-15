@@ -16,7 +16,7 @@ Session: 02/03/2018:
 Session: 09/03/2018:
 * Tensorboard introduction 
   <web.stanford.edu/class/cs20si/lectures/notes_02.pdf>
-* Introduction to linear and non-linear models 
+* Introduction to linear and non-linear models
   <https://github.com/deep-learning-indaba/practicals2017/blob/master/practical1.ipynb>
 * Basic discussion on objective function formulations for linear classification
 =============================================================================
