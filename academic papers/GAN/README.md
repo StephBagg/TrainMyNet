@@ -3,7 +3,7 @@ implemented by a system of two neural networks contesting with each other in a z
 They were introduced by Ian Goodfellow et al. in 2014
 
 List of papers;
-- The relativistic discriminator: a key element missing from standard GAN
+- 1807.00734.pdf -> The relativistic discriminator: a key element missing from standard GAN
 
 
 
